@@ -1,0 +1,37 @@
+body{
+background-color: #000000;
+}
+
+
+li{
+    list-style: none;
+}
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 150px;
+}
+
+.search{
+    display: flex;
+    justify-content: center;
+}
+
+.search input{
+    font-size: 20px;
+}
+.fath{
+    color: #ffff;
+    display: flex;
+    flex-wrap: wrap;
+}
+.hidden{
+    display: none;
+}
+.bayroq{
+color:#ffff ;
+}
+.qidir{
+ font-size: 50px;
+color: #ffff;
+}
